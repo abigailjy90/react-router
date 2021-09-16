@@ -11,7 +11,7 @@ const Profile = (props) => {
           history.push("/");
         }}
       >
-        Go to Home
+        Go to Home!
       </button>
     </>
   );
